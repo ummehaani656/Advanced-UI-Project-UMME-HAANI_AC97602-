@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+html { background-color: #006994; }
+p { padding-right:250px;color:white;font-family:Arial;padding-bottom:0px}
+ul {
+   padding-right :50px;
+    margin-top:-15px;
+    list-style-type: none;
+    overflow: hidden;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  .button {
+    border-radius: 12px;
+background-color: #f8f4ff;
+border: none;
+color: black;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+  }
+  
+  a:hover {
+    background: #add8e6;
+  }
+  
